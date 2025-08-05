@@ -1,0 +1,21 @@
+.navbar{
+    /* margin: 30px; */
+    /* background-color: antiquewhite; */
+    /* height: 100px; */
+    /* width: 100%; */
+    display: flex;
+    justify-content: space-evenly;
+    gap: 1000px;
+}
+
+.navbar #child-btn{
+    height: 40px;
+    width: 150px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 20px;
+    border-radius: 5px;
+    border: 1px solid rgb(149, 142, 142);
+    cursor: pointer;
+}
