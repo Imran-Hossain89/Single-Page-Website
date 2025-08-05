@@ -5,7 +5,7 @@ function Dashboard() {
     <div className="dashboard">
       <div id="background">
         <div id="content-div">
-          <img src="./Group.png" />
+          <img src="./Group.png" className="dashboard-image-div" />
           <h1>"In the near future, I hope to become a Developer."</h1>
           <p>
             If you want to build your career in programing you have to Practice

@@ -23,9 +23,9 @@
   margin-left: 40px;
 }
 
-img {
-  height: 240px;
-  width: 240px;
+.dashboard-image-div {
+  height: 230px;
+  width: 273px;
 }
 
 h1 {
