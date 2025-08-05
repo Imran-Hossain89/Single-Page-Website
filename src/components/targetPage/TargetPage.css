@@ -1,0 +1,123 @@
+.target-div {
+  height: 1000px;
+  width: 650px;
+  /* background-color: beige;
+  border: 1px solid black; */
+  margin: auto;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-top: 20px;
+}
+
+#target-div-1 {
+  height: 500px;
+  width: 450px;
+  /* border: 1px solid green; */
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-top: 100px;
+}
+#target-div-1 p {
+  height: 100px;
+  width: 500px;
+  margin-top: -5px;
+  /* border: 1px solid rebeccapurple; */
+}
+
+#details-2 {
+  display: flex;
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+}
+
+.moredetails-2 {
+  width: 215px;
+  gap: 100px;
+}
+
+img {
+  height: 56px;
+  width: 56px;
+}
+.moredetails-2 p {
+  height: 50px;
+  width: 250px;
+  display: flex;
+  justify-content: start;
+  align-items: start;
+  align-content: start;
+  text-align: left;
+  margin-bottom: 10px;
+}
+
+.target-div-3 {
+  height: auto;
+  display: flex;
+  text-align: center;
+  margin-top: 40px;
+}
+
+.target-div-4 {
+  margin: auto;
+  display: flex;
+  flex-direction: column;
+}
+
+#parents-div-4 {
+  margin: auto;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-content: center;
+  align-items: center;
+  border: 1px solid rgb(236, 228, 228);
+  width: 650px;
+  margin-bottom: 15px;
+  border-radius: 10px;
+}
+
+#box-div-4 {
+  height: 150px;
+  width: 580px;
+  /* border: 1px solid black; */
+  margin-left: 10px;
+}
+
+#box-div-4 p {
+  height: 50px;
+  width: 580px;
+  /* border: 1px solid rgb(167, 63, 63); */
+  display: flex;
+  text-align: start;
+}
+
+#image-div-4 {
+  height: 108px;
+  width: 94px;
+  /* border: 1px solid rgb(221, 215, 215); */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+#box-div-4 h2 {
+  margin-top: 10px;
+  margin-bottom: -10px;
+  /* color: rgb(186, 200, 33); */
+}
+
+#box-div-4 #p-div-4 {
+  /* color: rgb(65, 161, 113); */
+  margin-bottom: 10px;
+}
+
+.a-tag-div-4 {
+  /* color: red; */
+  margin-bottom: -40px;
+}

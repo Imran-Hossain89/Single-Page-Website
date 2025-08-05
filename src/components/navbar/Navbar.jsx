@@ -4,7 +4,7 @@ function Navbar() {
   return (
     <div className='navbar'>
       
-        <h1 >Awlad.H</h1>
+        <h1 id='h1-tag'>Awlad.H</h1>
         <button id='child-btn'>Download Resume</button>
        
     </div>
